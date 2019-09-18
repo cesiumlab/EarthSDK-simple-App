@@ -3,6 +3,7 @@
 ## 简介
 
 基于webpack，创建一个简单的基于EarthSDK的App。
+这是一个极其简单的示例，说明了EarthSDK是如何引用的。
 
 ![预览](./preview.jpg)
 
