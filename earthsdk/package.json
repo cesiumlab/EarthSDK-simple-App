@@ -1,0 +1,49 @@
+{
+  "_args": [
+    [
+      "earthsdk@1.1.11",
+      "D:\\vtxf\\2019\\projects\\xbsj\\EarthSDK\\EarthSDK-simple-App"
+    ]
+  ],
+  "_development": true,
+  "_from": "earthsdk@1.1.11",
+  "_id": "earthsdk@1.1.11",
+  "_inBundle": false,
+  "_integrity": "sha1-Fo84qn4PdqXQZJ8+Hx/vCXhwj4s=",
+  "_location": "/earthsdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "earthsdk@1.1.11",
+    "name": "earthsdk",
+    "escapedName": "earthsdk",
+    "rawSpec": "1.1.11",
+    "saveSpec": null,
+    "fetchSpec": "1.1.11"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/earthsdk/download/earthsdk-1.1.11.tgz",
+  "_spec": "1.1.11",
+  "_where": "D:\\vtxf\\2019\\projects\\xbsj\\EarthSDK\\EarthSDK-simple-App",
+  "author": {
+    "name": "cesiumlab"
+  },
+  "description": "eary-use plugins for cesium.",
+  "homepage": "https://earthsdk.com",
+  "keywords": [
+    "cesium",
+    "3D",
+    "webgl",
+    "geospatial",
+    "map",
+    "globe"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "earthsdk",
+  "scripts": {},
+  "version": "1.1.11"
+}
