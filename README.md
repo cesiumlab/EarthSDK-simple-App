@@ -2,16 +2,16 @@
 
 ## 简介
 
-基于webpack，创建一个简单的基于EarthSDK的App。
-这是一个极其简单的示例，说明了EarthSDK是如何引用的。
+创建一个简单的基于EarthSDK的App。  
+这是一个极其简单的示例，说明了EarthSDK是如何引用的。  
 
-缺点是EarthSDK需要手动拷贝，没有通过npm install earthsdk的方式来引入。
+缺点是EarthSDK需要手动拷贝，没有通过npm install earthsdk的方式来引入。  
 
 ![预览](./preview.jpg)
 
 ## 使用方法
 
-1. npm install -g http-server // 全局安装http-server，如果已经安装，则可跳过此步骤
+1. npm install -g http-server // 全局安装http-server，如果已经安装，则可跳过此步骤; 也可以使用IIS或者别的HTTP服务器软件启动。
 2. 当前目录下执行命令 hs -p 8080 // 启动http-server服务器
 3. 打开chrome浏览器，输入网址: localhost:8080
 
